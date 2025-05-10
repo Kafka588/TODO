@@ -1,0 +1,59 @@
+{
+  "navigation": {
+    "home": "Home",
+    "todos": "Todo List",
+    "pomodoro": "Pomodoro Timer",
+    "stickyNotes": "Sticky Notes",
+    "markdownNotes": "Markdown Notes"
+  },
+  "home": {
+    "title": "Study Buddy",
+    "subtitle": "Your all-in-one study companion",
+    "getStarted": "Get Started",
+    "features": {
+      "todos": {
+        "title": "Todo List",
+        "description": "Organize your tasks and track your progress"
+      },
+      "pomodoro": {
+        "title": "Pomodoro Timer",
+        "description": "Stay focused with the Pomodoro technique"
+      },
+      "stickyNotes": {
+        "title": "Sticky Notes",
+        "description": "Quick notes for your thoughts and ideas"
+      },
+      "markdownNotes": {
+        "title": "Markdown Notes",
+        "description": "Rich text notes with Markdown support"
+      }
+    }
+  },
+  "todos": {
+    "title": "Todo List",
+    "addPlaceholder": "Add a new task...",
+    "add": "Add"
+  },
+  "pomodoro": {
+    "title": "Pomodoro Timer",
+    "focusTime": "Focus Time",
+    "breakTime": "Break Time",
+    "start": "Start",
+    "pause": "Pause",
+    "reset": "Reset"
+  },
+  "stickyNotes": {
+    "title": "Sticky Notes",
+    "placeholder": "Write your note here...",
+    "addNote": "Add Note"
+  },
+  "markdown": {
+    "title": "Markdown Notes",
+    "newNote": "New Note",
+    "untitled": "Untitled Note",
+    "titlePlaceholder": "Note title",
+    "contentPlaceholder": "Write your markdown here...",
+    "save": "Save",
+    "emptyState": "Select a note or create a new one to get started"
+  }
+} 
